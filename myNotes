@@ -1,0 +1,5 @@
+use of state
+-> dataset from data 
+-> update new property named answers which adds all the correct and incorrect answers 
+-> use nanoid to give each content an id
+=> 

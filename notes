@@ -1,0 +1,38 @@
+   // React.useEffect(() => {
+    //     async function getData(){
+    //         const res = await fetch("https://opentdb.com/api.php?amount=10")
+    //         const data = await res.json()
+    //         setDataSet(data.results)
+    // }
+    //     getData()
+    //     return function() {
+    //         console.log("Cleaning up...")
+    //     }
+    // },[])
+//     getData()
+//    console.log()
+//    React.useEffect(() =>{
+//        fetch("https://opentdb.com/api.php?amount=10")
+//        .then(res => res.json())
+//        .then(data => setDataSet(data.results))
+//    },[])
+   
+   
+   
+   
+//    function getValue(event){
+//        const value = event.target.value
+//        console.log(value)
+//    }
+   
+//    console.log("dataset question", dataSet)
+   
+//    const post = dataSet.map((post) => post.question)
+//    console.log("post", post)
+//    console.log(post[0])
+            //    <button className="option-button" onClick={getValue} value={data[0].option[0]}>{data[0].option[0]} </button>
+            // <button className="option-button" onClick={getValue} value={data[0].option[1]}>{data[0].option[1]} </button>
+            // <button className="option-button" onClick={getValue} value={data[0].option[2]}>{data[0].option[2]} </button>
+            // <button className="option-button" onClick={getValue} value={data[0].option[3]}>{data[0].option[3]} </button>
+ 
+    
